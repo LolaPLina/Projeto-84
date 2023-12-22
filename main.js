@@ -44,18 +44,21 @@ function aplhabetkey() {
 
 
 function numberkey() {
-	
+	img_image="número.png"
+	add()
 }
 
 function arrowkey() {
-
+	img_image="direcional.png"
+	add()
 }
 
 function specialkey() {
-	
+	img_image="especial.png"
+	add()
 }
 
 function otherkey() {
-	img_image="otherkey.png";
+	img_image="outrakey.png";
 	add();
 }
